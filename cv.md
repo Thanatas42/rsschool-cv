@@ -14,7 +14,11 @@
 
 ### Briefly About Myself:
 
-
+He started his career as a service engineer, serviced typographic systems at the hardware and software level. 
+He has completed a number of courses and advanced training, at the moment C# is a developer of SED in the company UC Gazinformservice. 
+He was able to prove himself as a responsible employee, able to find a way out of difficult situations for the team. 
+Gained valuable experience as a group leader (temporary performance of duties). I started studying web development at the end of 2020, attracted interesting tasks, the adjacency of areas with the development of EDMS. 
+Attracts the prospect of a frontend developer in a medium or large product company. The priority is to benefit the business, and to solve first of all the problems of the business \ customer with development. It is important to me that the team has a friendly atmosphere and a structured workflow. There are positive recommendations from large companies of the Russian market.
 
 ---
 
